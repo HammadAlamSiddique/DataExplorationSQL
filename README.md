@@ -1,4 +1,4 @@
-### In this SQL project, I conducted an analysis of the `COVID-19 dataset`. My focus was on data exploration and I extracted the following information:
+In this SQL project, I conducted an analysis of the `COVID-19 dataset`. My focus was on data exploration and I extracted the following information:
 - The relationship between total cases and total deaths
 - The relationship between total cases and population
 - An examination of countries with the highest infection rate compared to population
